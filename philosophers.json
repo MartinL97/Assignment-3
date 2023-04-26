@@ -1,0 +1,557 @@
+[
+ {
+   "Name": "AdamSmith",
+   "date": "1723:1790",
+   "nationality": "Scottish"
+ },
+ {
+   "Name": "Al-Ghazali",
+   "date": "1058:1111",
+   "nationality": "Persian"
+ },
+ {
+   "Name": "AlaindeBenoist",
+   "date": "1943",
+   "nationality": "French"
+ },
+ {
+   "Name": "AlanTuring",
+   "date": "1912:1954",
+   "nationality": "British"
+ },
+ {
+   "Name": "AlanWatts",
+   "date": "1915:1973",
+   "nationality": "British"
+ },
+ {
+   "Name": "AlbertCamus",
+   "date": "1913:1960",
+   "nationality": "French"
+ },
+ {
+   "Name": "AlbertusMagnus",
+   "date": "1200:1280",
+   "nationality": "German"
+ },
+ {
+   "Name": "Anaximenes",
+   "date": " 585:528",
+   "nationality": "Greek"
+ },
+ {
+   "Name": "Aristotle",
+   "date": " 384:322",
+   "nationality": "Greek"
+ },
+ {
+   "Name": "ArthurSchopenhauer",
+   "date": "1788:1860",
+   "nationality": "German"
+ },
+ {
+   "Name": "AugusteComte",
+   "date": "1798:1857",
+   "nationality": "French"
+ },
+ {
+   "Name": "Averroes",
+   "date": "1126:1198",
+   "nationality": "Andalusian"
+ },
+ {
+   "Name": "AynRand",
+   "date": "1905:1982",
+   "nationality": "Russain"
+ },
+ {
+   "Name": "BaruchSpinoza",
+   "date": "1632:1677",
+   "nationality": "Dutch"
+ },
+ {
+   "Name": "BertrandRussell",
+   "date": "1872:1970",
+   "nationality": "British"
+ },
+ {
+   "Name": "CesareBeccaria",
+   "date": "1738:1794",
+   "nationality": "Italian "
+ },
+ {
+   "Name": "CharlesSandersPeirce",
+   "date": "1839:1914",
+   "nationality": "American"
+ },
+ {
+   "Name": "Cometan",
+   "date": "1998",
+   "nationality": "British"
+ },
+ {
+   "Name": "Confucius",
+   "date": " 551:479",
+   "nationality": "Chinese"
+ },
+ {
+   "Name": "DanielDennett",
+   "date": "1942",
+   "nationality": "American"
+ },
+ {
+   "Name": "DavidHume",
+   "date": "1711:1776",
+   "nationality": "Scottish"
+ },
+ {
+   "Name": "Democritus",
+   "date": " 460:370",
+   "nationality": "Greek"
+ },
+ {
+   "Name": "Diogenes",
+   "date": " 412:323",
+   "nationality": "Greek"
+ },
+ {
+   "Name": "EdmundBurke",
+   "date": "1729:1797",
+   "nationality": "Irish"
+ },
+ {
+   "Name": "EdmundHusserl",
+   "date": "1859:1938",
+   "nationality": "German"
+ },
+ {
+   "Name": "EmileDurkheim",
+   "date": "1858:1917",
+   "nationality": "French"
+ },
+ {
+   "Name": "EmmaGoldman",
+   "date": "1869:1940",
+   "nationality": "American"
+ },
+ {
+   "Name": "Epictetus",
+   "date": "55:135",
+   "nationality": "Greek"
+ },
+ {
+   "Name": "Epicurus",
+   "date": " 341–270",
+   "nationality": "Greek"
+ },
+ {
+   "Name": "FrancisBacon",
+   "date": "1561:1626",
+   "nationality": "British"
+ },
+ {
+   "Name": "FriedrichEngels",
+   "date": "1820:1895",
+   "nationality": "German"
+ },
+ {
+   "Name": "FriedrichHayek",
+   "date": "1899:1992",
+   "nationality": "Austrian"
+ },
+ {
+   "Name": "FriedrichNietzsche",
+   "date": "1844:1900",
+   "nationality": "German"
+ },
+ {
+   "Name": "GeorgeBerkeley",
+   "date": "1685:1753",
+   "nationality": "Irish"
+ },
+ {
+   "Name": "GeorgeHerbertMead",
+   "date": "1863:1931",
+   "nationality": "American"
+ },
+ {
+   "Name": "GeorgeSantayana",
+   "date": "1863:1952",
+   "nationality": "Spanish"
+ },
+ {
+   "Name": "GeorgesBataille",
+   "date": "1897:1962",
+   "nationality": "French"
+ },
+ {
+   "Name": "GilleDeleuze",
+   "date": "1925:1995",
+   "nationality": "French"
+ },
+ {
+   "Name": "GiordanoBruno",
+   "date": "1548:1600",
+   "nationality": "Italian "
+ },
+ {
+   "Name": "Gorgias",
+   "date": " 485:380",
+   "nationality": "Greek"
+ },
+ {
+   "Name": "GottfriedLeibniz",
+   "date": "1646:1716",
+   "nationality": "German"
+ },
+ {
+   "Name": "HannahArendt",
+   "date": "1906:1975",
+   "nationality": "American"
+ },
+ {
+   "Name": "HenryDavidThoreau",
+   "date": "1817:1862",
+   "nationality": "American"
+ },
+ {
+   "Name": "HildegardOfBingen",
+   "date": "1098:1179",
+   "nationality": "German"
+ },
+ {
+   "Name": "Hypatia",
+   "date": "355:415",
+   "nationality": "Greek"
+ },
+ {
+   "Name": "IbnSina",
+   "date": "980:1037",
+   "nationality": "Persian"
+ },
+ {
+   "Name": "ImmanuelKant",
+   "date": "1724:1804",
+   "nationality": "German"
+ },
+ {
+   "Name": "IrisMurdoch",
+   "date": "1919:1999",
+   "nationality": "British"
+ },
+ {
+   "Name": "JacquesDerrida",
+   "date": "1930:2004",
+   "nationality": "French"
+ },
+ {
+   "Name": "JacquesLacan",
+   "date": "1901:1981",
+   "nationality": "French"
+ },
+ {
+   "Name": "JeanBaudrillard",
+   "date": "1929:2007",
+   "nationality": "French"
+ },
+ {
+   "Name": "JeanJacquesRousseau",
+   "date": "1712:1778",
+   "nationality": "Swiss"
+ },
+ {
+   "Name": "Jean-PaulSartre",
+   "date": "1905:1980",
+   "nationality": "French"
+ },
+ {
+   "Name": "JeremyBentham",
+   "date": "1748:1832",
+   "nationality": "British"
+ },
+ {
+   "Name": "JidduKrishnamurti",
+   "date": "1895:1996",
+   "nationality": "Indian"
+ },
+ {
+   "Name": "JohnDewey",
+   "date": "1859:1952",
+   "nationality": "American"
+ },
+ {
+   "Name": "JohnHick",
+   "date": "1922:2012",
+   "nationality": "British"
+ },
+ {
+   "Name": "JohnLocke",
+   "date": "1632:1704",
+   "nationality": "British"
+ },
+ {
+   "Name": "JohnRawls",
+   "date": "1921:2002",
+   "nationality": "American"
+ },
+ {
+   "Name": "JohnSearle",
+   "date": "1932",
+   "nationality": "American"
+ },
+ {
+   "Name": "JohnStuartMill",
+   "date": "1806:1873",
+   "nationality": "British"
+ },
+ {
+   "Name": "JonathanEdwards",
+   "date": "1703:1758",
+   "nationality": "American"
+ },
+ {
+   "Name": "JudithButler",
+   "date": "1956",
+   "nationality": "American"
+ },
+ {
+   "Name": "JuliaKristeva",
+   "date": "1941",
+   "nationality": "Bulgarian-French"
+ },
+ {
+   "Name": "JürgenHabermas",
+   "date": "1929",
+   "nationality": "German"
+ },
+ {
+   "Name": "KarlBarth",
+   "date": "1886:1968",
+   "nationality": "Swiss"
+ },
+ {
+   "Name": "KarlJaspers",
+   "date": "1883:1969",
+   "nationality": "German-Swiss"
+ },
+ {
+   "Name": "KarlMarx",
+   "date": "1818:1883",
+   "nationality": "German/stateless"
+ },
+ {
+   "Name": "LaoTzu",
+   "date": " 601:531",
+   "nationality": "Chinese"
+ },
+ {
+   "Name": "LucienGoldmann",
+   "date": "1913:1970",
+   "nationality": "French"
+ },
+ {
+   "Name": "LudwigWittgenstein",
+   "date": "1889:1951",
+   "nationality": " British"
+ },
+ {
+   "Name": "MarcusAurelius",
+   "date": "121:180",
+   "nationality": "Roman"
+ },
+ {
+   "Name": "MarioBunge",
+   "date": "1919",
+   "nationality": "Argentine "
+ },
+ {
+   "Name": "MarthaNussbaum",
+   "date": "1947",
+   "nationality": "American"
+ },
+ {
+   "Name": "MartinBuber",
+   "date": "1878:1965",
+   "nationality": "Austrian"
+ },
+ {
+   "Name": "MartinHeidegger",
+   "date": "1889:1976",
+   "nationality": "German"
+ },
+ {
+   "Name": "MaryWollstonecraft",
+   "date": "1759:1797",
+   "nationality": "English"
+ },
+ {
+   "Name": "MaxScheler",
+   "date": "1874:1928",
+   "nationality": "German"
+ },
+ {
+   "Name": "MaxStirner",
+   "date": "1806:1856",
+   "nationality": "German"
+ },
+ {
+   "Name": "MeisterEckhart",
+   "date": "1260:1328",
+   "nationality": "German"
+ },
+ {
+   "Name": "MichelFoucault",
+   "date": "1926:1984",
+   "nationality": "French"
+ },
+ {
+   "Name": "MiguelDeUnamuno",
+   "date": "1864:1936",
+   "nationality": "Spanish"
+ },
+ {
+   "Name": "NiccolòMachiavelli",
+   "date": "1469:1527",
+   "nationality": "Italian "
+ },
+ {
+   "Name": "NickBostrom",
+   "date": "1973",
+   "nationality": "Swedish"
+ },
+ {
+   "Name": "NoamChomsky",
+   "date": "1928",
+   "nationality": "American"
+ },
+ {
+   "Name": "Parmenides",
+   "date": " 515:460",
+   "nationality": "Greek"
+ },
+ {
+   "Name": "PeterSinger",
+   "date": "1946",
+   "nationality": "Australian"
+ },
+ {
+   "Name": "Plato",
+   "date": "427:347",
+   "nationality": "Greek"
+ },
+ {
+   "Name": "RenéDescartes",
+   "date": "1596:1650",
+   "nationality": "French"
+ },
+ {
+   "Name": "RobertNozick",
+   "date": "1938:2002",
+   "nationality": "American"
+ },
+ {
+   "Name": "RolandBarthes",
+   "date": "1915:1980",
+   "nationality": "French"
+ },
+ {
+   "Name": "RosaLuxemburg",
+   "date": "1871:1919",
+   "nationality": "Polish"
+ },
+ {
+   "Name": "RudolfSteiner",
+   "date": "1861:1925",
+   "nationality": "Austrian"
+ },
+ {
+   "Name": "Seneca",
+   "date": " 4:65 ",
+   "nationality": "Roman"
+ },
+ {
+   "Name": "SigmundFreud",
+   "date": "1856:1939",
+   "nationality": "Austrian"
+ },
+ {
+   "Name": "SimoneDeBeauvoir",
+   "date": "1908:1986",
+   "nationality": "French"
+ },
+ {
+   "Name": "SimoneWeil",
+   "date": "1909:1943",
+   "nationality": "French"
+ },
+ {
+   "Name": "Socrates",
+   "date": "469:399",
+   "nationality": "Greek"
+ },
+ {
+   "Name": "SorJuana",
+   "date": "1651:1695",
+   "nationality": "Spanish"
+ },
+ {
+   "Name": "SørenKierkegaard",
+   "date": "1813:1855",
+   "nationality": "Danish"
+ },
+ {
+   "Name": "TheodorAdorno",
+   "date": "1903:1969",
+   "nationality": "German"
+ },
+ {
+   "Name": "ThomasAquinas",
+   "date": "1225:1274",
+   "nationality": "Italian "
+ },
+ {
+   "Name": "ThomasHobbes",
+   "date": "1588:1679",
+   "nationality": "English"
+ },
+ {
+   "Name": "ThomasJefferson",
+   "date": "1743:1826",
+   "nationality": "American"
+ },
+ {
+   "Name": "ThomasKühn",
+   "date": "1922:1996",
+   "nationality": "American"
+ },
+ {
+   "Name": "U.G.Krishnamurti",
+   "date": "1918:2007",
+   "nationality": "Indian"
+ },
+ {
+   "Name": "Voltaire",
+   "date": "1694:1778",
+   "nationality": "French"
+ },
+ {
+   "Name": "WalterBenjamin",
+   "date": "1892:1940",
+   "nationality": "German"
+ },
+ {
+   "Name": "WilhelmReich",
+   "date": "1897:1957",
+   "nationality": "Austrian"
+ },
+ {
+   "Name": "WilliamJames",
+   "date": "1842:1910",
+   "nationality": "American"
+ },
+ {
+   "Name": "WilliamLaneCraig",
+   "date": "1949",
+   "nationality": "American"
+ }
+]
